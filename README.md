@@ -1,17 +1,15 @@
-<!-- RajatSingh1205's GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Rajat Kumar Singh</h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Hibernate | MySQL | Kafka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+and+scalable+systems;Spring+Boot+%7C+Microservices+%7C+Kafka;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+and+scalable+systems;Spring+Boot+%7C+Microservices+%7C+Kafka;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me  
 - 🧠 **Focused on:** Spring Boot, Microservices, REST APIs, and Kafka  
-- ⚡ **Currently building:** a Social Media Application & Journal App  
+- ⚡ **Currently building:** Social Media App & Journal Application  
 - 💬 Ask me about **Java | Spring Boot | Hibernate | Kafka | MySQL**  
 - 📫 Reach me at: **rajat.k.singh1209@gmail.com**  
 
@@ -28,8 +26,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajatSingh1205&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajatSingh1205&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajatSingh1205&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajat's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=RajatSingh1205&theme=tokyonight&hide_border=true" alt="Rajat's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">

@@ -34,9 +34,6 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/rajat-singh-776705360">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/RajatSingh1205">
     <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" />
   </a>

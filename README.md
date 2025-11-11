@@ -10,7 +10,6 @@
 ---
 
 ### 💫 About Me  
-- 💻 **B.Tech (CSE)** from Aligarh College of Engineering and Technology  
 - 🧠 **Focused on:** Spring Boot, Microservices, REST APIs, and Kafka  
 - ⚡ **Currently building:** a Social Media Application & Journal App  
 - 💬 Ask me about **Java | Spring Boot | Hibernate | Kafka | MySQL**  

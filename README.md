@@ -8,21 +8,21 @@
   Spring Boot • Hibernate • MySQL • Kafka • REST APIs
 </p>
 
----
+<br>
 
 ### About Me   
 - Building **Social Media** and **Journal Applications** using Spring Boot  
 - Ask me about **Java, Spring Boot, Hibernate, MySQL, Kafka**  
 - Reach me at **rajat.k.singh1209@gmail.com**
 
----
+<br>
 
 ### Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,docker,postman,idea" height="40"/>
 </p>
 
----
+<br>
 
 ### GitHub Overview  
 <p align="center">
@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSingh1205&layout=compact&hide_border=true&theme=transparent" height="150">
 </p>
 
----
+<br>
 
 <p align="center">
   <a href="https://github.com/RajatSingh1205">
@@ -41,6 +41,6 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajatSingh1205&style=flat-square&color=999999" />
-</p>
+</p> -->

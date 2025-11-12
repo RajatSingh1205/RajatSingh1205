@@ -1,6 +1,7 @@
 <!-- RajatSingh1205's Minimalist GitHub Profile -->
 
-<h1 align="center" style="font-weight:600; margin-bottom:8px;">Hi, I'm Rajat Singh</h1>
+<h1 align="center" style="font-weight:600; color:#66b2ff;">Hi, I'm Rajat Singh</h1>
+
 
 <p align="center" style="font-size:15px; color:#9f9f9f; margin-top:0; margin-bottom:25px;">
   <i>Turning ideas into scalable backend systems.</i>

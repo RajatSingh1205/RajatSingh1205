@@ -1,6 +1,6 @@
 <!-- RajatSingh1205's Minimalist GitHub Profile -->
 
-<h1 align="center">👋 Hi, I'm Rajat Kumar Singh</h1>
+<h1 align="center" style="font-weight:600;">Hi, I'm Rajat Singh</h1>
 
 <p align="center">
   <b>Java Backend Developer</b>  
@@ -10,28 +10,27 @@
 
 ---
 
-### 👨‍💻 About Me   
-- 🚀 Building **Social Media** & **Journal Applications** using Spring Boot  
-- 💬 Ask me about **Java, Spring Boot, Hibernate, MySQL, Kafka**  
-- 📩 Reach me at **rajat.k.singh1209@gmail.com**
+### About Me   
+- Building **Social Media** and **Journal Applications** using Spring Boot  
+- Ask me about **Java, Spring Boot, Hibernate, MySQL, Kafka**  
+- Reach me at **rajat.k.singh1209@gmail.com**
 
 ---
 
-### ⚙️ Tech Stack  
+### Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,docker,postman,idea" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Overview  
+### GitHub Overview  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajatSingh1205&show_icons=false&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSingh1205&layout=compact&hide_border=true&theme=transparent" height="150">
 </p>
 
 ---
-
 
 <p align="center">
   <a href="https://github.com/RajatSingh1205">

@@ -2,14 +2,13 @@
 
 <h1 align="center" style="font-weight:600; color:#66b2ff;">Hi, I'm Rajat Singh</h1>
 
-
 <p align="center" style="font-size:15px; color:#9f9f9f; margin-top:0; margin-bottom:25px;">
   <i>Turning ideas into scalable backend systems.</i>
 </p>
 
 <p align="center" style="margin-bottom:35px;">
   <b>Java Backend Developer</b><br>
-  Spring Boot • Hibernate • MySQL • Kafka • REST APIs
+  Spring Boot • Hibernate • MySQL • Kafka • REST APIs • Kubernetes • Azure DevOps
 </p>
 
 <br>
@@ -19,6 +18,8 @@
 <br>
 
 - Building **Social Media** and **Journal Applications** using Spring Boot  
+- Working with **DevOps & Cloud tools** (Azure DevOps, Kubernetes, Jenkins)  
+- Exploring **Monitoring & Observability** (Prometheus, Grafana)  
 - Passionate about **clean architecture** and **efficient backend design**  
 - Reach me at **rajat.k.singh1209@gmail.com**
 
@@ -30,7 +31,7 @@
 <br>
 
 <p align="center" style="margin:25px 0;">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,docker,postman,idea" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,docker,kubernetes,jenkins,azure,postman,idea" height="42"/>
 </p>
 
 <br>
@@ -55,5 +56,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-

@@ -42,17 +42,19 @@
 <br>
 
 <p align="center" style="margin:25px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajatSingh1205&show_icons=false&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajatSingh1205&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSingh1205&layout=compact&hide_border=true&theme=transparent" height="150">
 </p>
 
-<br>
+<p align="center" style="margin:10px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajatSingh1205&theme=transparent&hide_border=true" height="150">
+</p>
 
-<p align="center" style="margin-top:25px;">
-  <a href="https://github.com/RajatSingh1205">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rajat.k.singh1209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+<p align="center" style="margin:10px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajatSingh1205&theme=transparent" width="90%">
+</p>
+
+<p align="center" style="margin:10px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajatSingh1205&theme=transparent" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajatSingh1205&theme=transparent" height="150">
 </p>
